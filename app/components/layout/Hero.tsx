@@ -4,7 +4,7 @@ import { FaAngleRight } from "react-icons/fa";
 
 function Hero() {
   return (
-    <section className="hero">
+    <section className="hero mt-4">
       <div className="py-12">
         <h1 className="text-4xl font-semibold">
           Tudo
@@ -28,7 +28,7 @@ function Hero() {
 
       <div className="relative">
         <Image
-          src="/hamburguer-img.jpg"
+          src="/x-bacon.png"
           alt="hamburguer"
           layout="fill"
           objectFit="contain"
